@@ -10,7 +10,7 @@ Algorithms:
 3. QuickSort
 
 
-![complexityIllustration](img\Algorithm-complexity-illustration.png)
+![complexityIllustration](.img\Algorithm-complexity-illustration.png)
 
 Illustration from [Know Thy Complexities!](https://www.bigocheatsheet.com/)
 
