@@ -8,7 +8,9 @@ Algorithms:
 1. BubbleSort
 2. MergeSort
 3. QuickSort
+4. Sieve of Eratosthenes
 
+Examples in: Python, Scala
 
 ![complexityIllustration](https://github.com/RobinsonLuzo/Algorithms-Data-Structures/blob/master/img/Algorithm-complexity-illustration.png)
 
