@@ -9,8 +9,9 @@ Algorithms:
 2. MergeSort
 3. QuickSort
 4. Sieve of Eratosthenes
+5. Binary Search Trees
 
-Examples in: Python, Scala
+Examples in (not all): Python, Scala
 
 ![complexityIllustration](https://github.com/RobinsonLuzo/Algorithms-Data-Structures/blob/master/img/Algorithm-complexity-illustration.png)
 
